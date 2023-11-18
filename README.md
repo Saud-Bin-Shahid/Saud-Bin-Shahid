@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Saud Bin Shahid</h1>
 <h3 align="center">A Passionate SQA Engineer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://technographx.b-cdn.net/wp-content/uploads/2023/03/History-of-GIF-3.gif">
+<img align="right" alt="coding"  src="https://technographx.b-cdn.net/wp-content/uploads/2023/03/History-of-GIF-3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saud-bin-shahid&label=Profile%20views&color=0e75b6&style=flat" alt="saud-bin-shahid" /> </p>
 
